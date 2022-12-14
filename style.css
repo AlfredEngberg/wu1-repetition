@@ -1,0 +1,31 @@
+.container{
+    width: min(80ch, 100vw - 2rem);
+    margin-inline: auto;
+    font-family: 'Diplomata SC', cursive;
+    color:honeydew;
+    background-color:gray;
+}
+
+.navbar{
+flex: auto;
+justify-content: space-between;
+color: blue;
+background-color: beige;
+}
+
+nav > ul{
+    display: flex;
+    list-style: how;
+    color: blue;
+background-color: beige;
+}
+
+img{
+    max-width: 100%;
+    width: 100%;
+}
+
+html, body{
+padding: 0%;
+margin: 0ch;
+}
